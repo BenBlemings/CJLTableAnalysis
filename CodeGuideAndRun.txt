@@ -1,0 +1,24 @@
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\IVReg1.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\IVReg1BalancedData.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\CreateBasicDescStats.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\SlidesDataVisualizeStages.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\SlidesRegTableNaiive.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\SlidesFirstStageTable.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\SlidesSecondStageTable.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\SlidesSecondStageTableEvents.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\SlidesSecondStageTableSubEvents.do"
+
+"C:\Users\Benjamin\Desktop\Stata 14\StataMP-64.exe" /e do "D:\Dropbox\Pirates\PaperwithBen\Work\Analysis\Code\RandInfMain.do"
+
+
+
+
+@pause
